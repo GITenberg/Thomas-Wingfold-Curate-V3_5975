@@ -1,5 +1,5 @@
 _repo: Thomas-Wingfold-Curate-V3_5975
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Christian fiction'
 - !lcsh 'Wingfold, Thomas (Fictitious character) -- Fiction'
 - !lcc 'PR'
+- GITenberg
 title: Thomas Wingfold, Curate V3
 url: http://www.gutenberg.org/ebooks/5975
